@@ -1,0 +1,2 @@
+# FinHELP
+Finance python application
